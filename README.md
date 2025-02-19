@@ -1,6 +1,6 @@
 # 2025 Web Uygulama Çatısı - Web Application Framework
 
-BŞEÜ - Bilgisayar mühendisliği 2024 2025 öğretim yılı bahar döneminde işlenen web uygulama çatısı desinin takip edildiği repository.
+BŞEÜ - Bilgisayar mühendisliği 2024 2025 öğretim yılı bahar döneminde işlenen web uygulama çatısı dersinin takip edildiği repository.
 
 Ders için istenilen gerekli kurulumlar;
   1. Visual Studio / VS Code (Tercihen visual studio olması)
