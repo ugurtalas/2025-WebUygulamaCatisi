@@ -14,4 +14,5 @@ Ders için istenilen gerekli kurulumlar;
      * Temel kavramlar (Domain, Hosting, Client, Server, Response, Request v.b.)
      * .Net Tarihçesi
      * Gerekli kurulumlar
-  3. MVC
+  2. Hafta
+     * MVC
