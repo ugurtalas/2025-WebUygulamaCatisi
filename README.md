@@ -17,5 +17,5 @@ Ders için istenilen gerekli kurulumlar;
   2. Hafta
      * MVC - Temel bir başlangıç projesi
   3. Hafta
-     * Kullanıcıdan veri alma ve verii gönderme yöntemleri
+     * Kullanıcıdan veri alma ve veri gönderme yöntemleri
   
