@@ -18,4 +18,6 @@ Ders için istenilen gerekli kurulumlar;
      * MVC - Temel bir başlangıç projesi
   3. Hafta
      * Kullanıcıdan veri alma ve veri gönderme yöntemleri
+  4. Hafta
+     * KAtmanlı mimari
   
