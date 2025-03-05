@@ -15,4 +15,9 @@ Ders için istenilen gerekli kurulumlar;
      * .Net Tarihçesi
      * Gerekli kurulumlar
   2. Hafta
-     * MVC
+     * MVC - Temel bir başlangıç projesi
+  3. Hafta
+     * Kullanıcıdan veri alma ve veri gönderme yöntemleri
+  4. Hafta
+     * KAtmanlı mimari
+  
