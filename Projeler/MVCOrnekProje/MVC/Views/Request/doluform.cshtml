@@ -1,0 +1,9 @@
+﻿@model Kullanici
+
+<h1> Dolu Form </h1>
+<form action="/request/FormdanModelAl" method="post">
+    <input name="Ad"  value="@Model.Ad"  />
+    <input name="Soyad" value="@Model.Soyad" />
+
+    <button type="submit"> Gönder </button>
+</form>

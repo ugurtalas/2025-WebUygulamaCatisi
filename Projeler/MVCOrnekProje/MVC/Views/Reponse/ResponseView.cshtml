@@ -1,0 +1,14 @@
+﻿view Bag : @ViewBag.Ad
+<br />
+view Data : @ViewData["Veri"]
+<br />
+Temp Data : @TempData["TempVeri"]
+<br />
+
+@{
+    var Data = TempData["TempModel"] as Kullanici;
+    if (Data != null)
+    {
+        <p>Temp Data Model :  @Data.Ad   @Data.Soyad</p>
+    }
+}

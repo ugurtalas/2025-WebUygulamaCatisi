@@ -9,59 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC
 build_property.RootNamespace = MVC
-build_property.ProjectDir = C:\Users\USER\Desktop\repo\WebUygulamaCatisi-2025\Projeler\MVCOrnekProje\MVC\
+build_property.ProjectDir = C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\USER\Desktop\repo\WebUygulamaCatisi-2025\Projeler\MVCOrnekProje\MVC
+build_property.MSBuildProjectDirectory = C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Home/IkinciView.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Home/IkinciView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJa2luY2lWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Home/IlkMetot.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Home/IlkMetot.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbGtNZXRvdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Home/Index.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Home/ModelKullananView.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Home/ModelKullananView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RlbEt1bGxhbmFuVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Home/Privacy.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Ornek/Index.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Ornek/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JuZWtcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Ornek/OrnekView.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Ornek/OrnekView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JuZWtcT3JuZWtWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Shared/Error.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Reponse/ResponseListe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxSZXNwb25zZUxpc3RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Reponse/ResponseNesne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxSZXNwb25zZU5lc25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Reponse/ResponseTuple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxSZXNwb25zZVR1cGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Reponse/ResponseView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb25zZVxSZXNwb25zZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Request/Ajax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxBamF4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Request/doluform.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxkb2x1Zm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Request/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Request/Request.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/_ViewImports.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/_ViewStart.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/repo/WebUygulamaCatisi-2025/Projeler/MVCOrnekProje/MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/USER/Desktop/repo/2025-WebUygulamaCatisi/Projeler/MVCOrnekProje/MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e

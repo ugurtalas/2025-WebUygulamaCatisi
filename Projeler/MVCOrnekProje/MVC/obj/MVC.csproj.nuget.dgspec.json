@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\repo\\WebUygulamaCatisi-2025\\Projeler\\MVCOrnekProje\\MVC\\MVC.csproj": {}
+    "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\repo\\WebUygulamaCatisi-2025\\Projeler\\MVCOrnekProje\\MVC\\MVC.csproj": {
+    "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\repo\\WebUygulamaCatisi-2025\\Projeler\\MVCOrnekProje\\MVC\\MVC.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "C:\\Users\\USER\\Desktop\\repo\\WebUygulamaCatisi-2025\\Projeler\\MVCOrnekProje\\MVC\\MVC.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\repo\\WebUygulamaCatisi-2025\\Projeler\\MVCOrnekProje\\MVC\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
