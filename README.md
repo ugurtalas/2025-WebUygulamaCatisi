@@ -19,5 +19,7 @@ Ders için istenilen gerekli kurulumlar;
   3. Hafta
      * Kullanıcıdan veri alma ve veri gönderme yöntemleri
   4. Hafta
-     * KAtmanlı mimari
+     * Katmanlı mimari
+     * Code First
+        
   
