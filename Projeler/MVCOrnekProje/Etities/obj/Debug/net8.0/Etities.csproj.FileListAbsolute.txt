@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\bin\Debug\net8.0\Etities.deps.json
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\bin\Debug\net8.0\Etities.dll
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\bin\Debug\net8.0\Etities.pdb
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\Etities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\Etities.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\Etities.AssemblyInfo.cs
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\Etities.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\Etities.sourcelink.json
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\Etities.dll
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\refint\Etities.dll
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\Etities.pdb
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Etities\obj\Debug\net8.0\ref\Etities.dll

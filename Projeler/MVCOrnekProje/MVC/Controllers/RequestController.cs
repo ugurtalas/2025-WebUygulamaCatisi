@@ -100,6 +100,7 @@ namespace MVC.Controllers
         public IActionResult AjaxModelGetir()
         {
             Kullanici Nesne = new Kullanici() { No = 1, Ad = "Ugur", Soyad = "TALAS" };
+            _logger.LogInformation(" Ajaxtan Gonderilen Veriler " + Nesne.Ad + "  " + Nesne.Soyad);
             return Json(Nesne);
         }
     }

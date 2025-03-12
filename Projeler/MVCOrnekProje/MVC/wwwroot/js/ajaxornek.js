@@ -16,14 +16,13 @@
 
 
     $(document).delegate(".VeriAl", "click", function () {
-     
         $.ajax({
             url: "/request/AjaxModelGetir",
             type: "post",
             ContentType: "html",
             success: function (result) {
-         
-                var Cevap = JSON.parse(result.d);
+
+                alert(result.Ad)
              
             }
         });
