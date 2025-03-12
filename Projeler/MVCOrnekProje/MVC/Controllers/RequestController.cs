@@ -1,10 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using MVC.Models;
 
 namespace MVC.Controllers
 {
     public class RequestController : Controller
     {
+
+        private readonly ILogger<HomeController> _logger;
+
+        public RequestController(ILogger<HomeController> logger)
+        {
+            _logger = logger;
+        }
         public IActionResult Index()
         {
             return View();
@@ -84,8 +92,8 @@ namespace MVC.Controllers
 
         public IActionResult AjaxModelAl(Kullanici Veri)
         {
-            ViewBag.Mesaj = Veri.Ad + " " + Veri.Soyad;
-            return View("/Views/Request/Ajax.cshtml");
+            _logger.LogInformation(" Ajaxtan Gonderilen Veriler " + Veri.Ad +"  "+ Veri.Soyad);
+            return Json("Veriler backende taşındı");
         }
 
 

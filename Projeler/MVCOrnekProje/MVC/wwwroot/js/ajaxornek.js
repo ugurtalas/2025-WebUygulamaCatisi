@@ -8,7 +8,7 @@
             data: Veri,
             ContentType: "html",
             success: function (result) {
-                alert("Veriler Başaıyla Gönderildi");
+                alert(result);
             }
         });
         
@@ -20,17 +20,18 @@
         $.ajax({
             url: "/request/AjaxModelGetir",
             type: "post",
-           
             ContentType: "html",
             success: function (result) {
-
-                var Cevap = JSON.p
-                arse(result);
-                alert(Cevap.Ad);
+         
+                var Cevap = JSON.parse(result.d);
+             
             }
         });
 
     });
+
+
+
 
 
 

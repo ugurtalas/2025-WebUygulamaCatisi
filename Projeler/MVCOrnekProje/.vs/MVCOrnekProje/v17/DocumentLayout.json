@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\wwwroot\\js\\ajaxornek.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\js\\ajaxornek.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\wwwroot\\js\\ajaxornek.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\js\\ajaxornek.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\views\\request\\ajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -62,13 +62,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ajaxornek.js",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\wwwroot\\js\\ajaxornek.js",
               "RelativeDocumentMoniker": "MVC\\wwwroot\\js\\ajaxornek.js",
               "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\wwwroot\\js\\ajaxornek.js",
               "RelativeToolTip": "MVC\\wwwroot\\js\\ajaxornek.js",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-05T12:33:20.435Z",
               "EditorCaption": ""
@@ -147,15 +147,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RequestController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\RequestController.cs",
               "RelativeDocumentMoniker": "MVC\\Controllers\\RequestController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\RequestController.cs",
               "RelativeToolTip": "MVC\\Controllers\\RequestController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAADwv1sAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv2MAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:35:08.708Z"
+              "WhenOpened": "2025-03-05T11:35:08.708Z",
+              "EditorCaption": ""
             }
           ]
         }

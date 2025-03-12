@@ -58,8 +58,7 @@
               "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T12:36:05.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:36:05.168Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "MVC\\wwwroot\\js\\ajaxornek.js",
               "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\wwwroot\\js\\ajaxornek.js",
               "RelativeToolTip": "MVC\\wwwroot\\js\\ajaxornek.js",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwBoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-05T12:33:20.435Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "MVC\\Views\\Request\\Ajax.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T12:30:42.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:30:42.881Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "MVC\\Controllers\\ResponseController.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAAwEQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T12:13:25.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:13:25.479Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "MVC\\Views\\Request\\doluform.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T12:10:56.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:10:56.157Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "MVC\\Views\\Request\\Form.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T12:01:58.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:01:58.579Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "MVC\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:57:41.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:57:41.865Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "MVC\\Views\\Request\\Request.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T11:36:56.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:36:56.089Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "MVC\\Controllers\\RequestController.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAADwv1sAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T11:35:08.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T11:35:08.708Z"
             }
           ]
         }
