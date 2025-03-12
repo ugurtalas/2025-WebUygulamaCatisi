@@ -21,5 +21,11 @@ Ders için istenilen gerekli kurulumlar;
   4. Hafta
      * Katmanlı mimari
      * Code First
+  5. Hafta
+     * CodeFirst ile Data base oluşturma , tablo ilişkilendirme ...
+     * DummyDataGenerator Katmanı oluşturma
+     * Business Katmanı oluşturma
+  6. Hafta
+
         
   
