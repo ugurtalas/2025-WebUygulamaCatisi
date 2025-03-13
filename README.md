@@ -26,6 +26,7 @@ Ders için istenilen gerekli kurulumlar;
      * DummyDataGenerator Katmanı oluşturma
      * Business Katmanı oluşturma
   6. Hafta
+     * DTO
 
         
   
