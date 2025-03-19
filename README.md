@@ -22,13 +22,11 @@ Ders için istenilen gerekli kurulumlar;
      * Katmanlı mimari
      * Code First
   5. Hafta
-     * CodeFirst ile Data base oluşturma , tablo ilişkilendirme ...
-     * DummyDataGenerator Katmanı oluşturma
-     * Business Katmanı oluşturma
+     * CodeFirst ile Data base oluşturma , tablo ilişkilendirme ...  
   6. Hafta
      * DTO
      * Dummy Data Generator
-
+     * Business Katmanı oluşturma
 
 Uygulama Mimarisi
 ![image](https://github.com/user-attachments/assets/7422aab9-8647-4a23-9319-803747e3c369)
