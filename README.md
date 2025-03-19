@@ -9,7 +9,9 @@ Ders için istenilen gerekli kurulumlar;
   4. Postman
 
 Code First Command
+
 dotnet ef migrations add name
+
 dotnet ef database update
 
 İçerik : 
