@@ -21,7 +21,7 @@ namespace DataAccessLayer.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Etities.Kategori", b =>
+            modelBuilder.Entity("Entities.Kategori", b =>
                 {
                     b.Property<int>("No")
                         .ValueGeneratedOnAdd()
@@ -38,7 +38,7 @@ namespace DataAccessLayer.Migrations
                     b.ToTable("Kategori");
                 });
 
-            modelBuilder.Entity("Etities.Urun", b =>
+            modelBuilder.Entity("Entities.Urun", b =>
                 {
                     b.Property<int>("No")
                         .ValueGeneratedOnAdd()
@@ -57,9 +57,51 @@ namespace DataAccessLayer.Migrations
                     b.Property<int>("Fiyat")
                         .HasColumnType("int");
 
+                    b.Property<string>("Icerik")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("KategoriNo")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ResimYol")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Stok")
+                        .HasColumnType("int");
+
                     b.HasKey("No");
 
                     b.ToTable("Urun");
+                });
+
+            modelBuilder.Entity("Entities.Yorum", b =>
+                {
+                    b.Property<int>("No")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("No"));
+
+                    b.Property<string>("Baslik")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Icerik")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Mail")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UrunNo")
+                        .HasColumnType("int");
+
+                    b.HasKey("No");
+
+                    b.ToTable("Yorum");
                 });
 #pragma warning restore 612, 618
         }

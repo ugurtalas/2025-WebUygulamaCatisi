@@ -1,4 +1,4 @@
-﻿using Etities;
+﻿using Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer
@@ -7,6 +7,7 @@ namespace DataAccessLayer
     {
         public DbSet<Kategori> Kategori { get; set; }
         public DbSet<Urun> Urun { get; set; }
+        public DbSet<Yorum> Yorum { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

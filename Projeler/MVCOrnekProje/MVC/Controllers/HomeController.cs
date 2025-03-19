@@ -16,7 +16,11 @@ namespace MVC.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var liste = Business.KategoriSevice.KategoriListele();
+            
+            var Urunler= Business.UrunService.UrunListele();
+            
+            return View(liste);
         }
 
         public IActionResult Privacy()

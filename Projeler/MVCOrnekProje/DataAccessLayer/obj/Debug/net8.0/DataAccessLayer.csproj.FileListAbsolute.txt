@@ -2,8 +2,6 @@ C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAcc
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
-C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\bin\Debug\net8.0\Etities.dll
-C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\bin\Debug\net8.0\Etities.pdb
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
@@ -16,3 +14,5 @@ C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAcc
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\bin\Debug\net8.0\Entities.dll
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\DataAccessLayer\bin\Debug\net8.0\Entities.pdb

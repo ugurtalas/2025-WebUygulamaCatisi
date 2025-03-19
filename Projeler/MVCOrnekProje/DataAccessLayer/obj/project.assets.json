@@ -1609,14 +1609,14 @@
           }
         }
       },
-      "Etities/1.0.0": {
+      "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Etities.dll": {}
+          "bin/placeholder/Entities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Etities.dll": {}
+          "bin/placeholder/Entities.dll": {}
         }
       }
     }
@@ -4735,15 +4735,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Etities/1.0.0": {
+    "Entities/1.0.0": {
       "type": "project",
-      "path": "../Etities/Etities.csproj",
-      "msbuildProject": "../Etities/Etities.csproj"
+      "path": "../Etities/Entities.csproj",
+      "msbuildProject": "../Etities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Etities >= 1.0.0",
+      "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
@@ -4783,8 +4783,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Etities\\Etities.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Etities\\Etities.csproj"
+            "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Etities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Etities\\Entities.csproj"
             }
           }
         }
