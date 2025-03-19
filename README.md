@@ -1,3 +1,27 @@
+# ÖDEV
+Kullanici ve Rol  tabloları eklenecek. İsimleri burada yazdığım gibi olsun.
+
+Kullanıcı tablosu:
+  * No
+  * Ad
+  * Soyad
+  * KullaniciAd
+  * Parola
+  * RolNo
+  * Adres
+  * Eposta
+
+Rol tablosu
+  * No
+  * Ad
+
+Şeklinde olsun ayrıca Dumy datagenerator katmanında 3 tane rol ekleyecek generaor metodunu yazınız. Roller "Admin","Satıcı", "Müşteri"
+
+Kullanıcı tablosunada her bir rol için birer kullanıcı ekleyecek generator 'u yazınız.
+
+Not kullanıcı tablosunun diğer tablolar ile ilişkisini yapmanıza gerek yok sadece rol ile ilgili olsun.
+
+
 # 2025 Web Uygulama Çatısı - Web Application Framework
 
 BŞEÜ - Bilgisayar mühendisliği 2024 2025 öğretim yılı bahar döneminde işlenen web uygulama çatısı dersinin takip edildiği repository.
