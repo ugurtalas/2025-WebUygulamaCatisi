@@ -31,6 +31,9 @@ Ders için istenilen gerekli kurulumlar;
 Uygulama Mimarisi
 ![image](https://github.com/user-attachments/assets/7422aab9-8647-4a23-9319-803747e3c369)
 
+Örnekte Uygulanan veri tabanı modeli 
+
+![image](https://github.com/user-attachments/assets/368f069a-4e31-4012-b671-ab0d031b1743)
 
 
         
