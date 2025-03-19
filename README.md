@@ -27,6 +27,13 @@ Ders için istenilen gerekli kurulumlar;
      * Business Katmanı oluşturma
   6. Hafta
      * DTO
+     * Dummy Data Generator
+
+
+Uygulama Mimarisi
+![image](https://github.com/user-attachments/assets/7422aab9-8647-4a23-9319-803747e3c369)
+
+
 
         
   
