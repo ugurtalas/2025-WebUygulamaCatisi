@@ -8,6 +8,10 @@ Ders için istenilen gerekli kurulumlar;
   3. .Net Core 8.x
   4. Postman
 
+Code First Command
+dotnet ef migrations add name
+dotnet ef database update
+
 İçerik : 
   1. Hafta
      * Ders işlenişi ile ilgili bilgiler 
