@@ -17,5 +17,19 @@ namespace Business
                 .Include("Yorum").ToList();
             return Cevap;
         }
+
+        public static List<DTO.Response.Urun.UrunOzetBilgi> TumUrunListele()
+        {
+            DataBaseContext Model = new DataBaseContext();
+            var Cevap = Model.Urun.ToList().Take(20)
+                .Select(s=> new DTO.Response.Urun.UrunOzetBilgi { 
+                     No = s.No,
+                     Fiyat=s.Fiyat,
+                     Ad=s.Ad,
+                     ResimYol=s.ResimYol,        })           
+                
+                .ToList();
+            return Cevap;
+        }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DummyDataGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8aca5af8278f852e04b5b5dc1110711fd2c0576")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c1487dc5081f61f0b6aad362a0561f2a67fc930")]
 [assembly: System.Reflection.AssemblyProductAttribute("DummyDataGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DummyDataGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
