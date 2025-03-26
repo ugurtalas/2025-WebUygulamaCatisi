@@ -32,6 +32,8 @@ Ders için istenilen gerekli kurulumlar;
   3. .Net Core 8.x
   4. Postman
 
+Kullanılan Template :  https://startbootstrap.com/templates/ecommerce 
+
 Code First Command
 
 dotnet ef migrations add name
