@@ -16,3 +16,5 @@ C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Busines
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Business\bin\Debug\net8.0\DTO.dll
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\Business\bin\Debug\net8.0\DTO.pdb

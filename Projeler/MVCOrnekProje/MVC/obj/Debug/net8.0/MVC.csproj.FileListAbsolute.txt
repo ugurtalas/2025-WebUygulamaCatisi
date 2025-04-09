@@ -121,3 +121,5 @@ C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\MVC\bin
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\MVC\bin\Debug\net8.0\Entities.pdb
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\MVC\obj\Debug\net8.0\MVC.csproj.AssemblyReference.cache
 C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\MVC\obj\Debug\net8.0\MVC.csproj.Up2Date
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\MVC\bin\Debug\net8.0\DTO.dll
+C:\Users\USER\Desktop\repo\2025-WebUygulamaCatisi\Projeler\MVCOrnekProje\MVC\bin\Debug\net8.0\DTO.pdb

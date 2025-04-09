@@ -2874,6 +2874,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Business >= 1.0.0",
+      "DTO >= 1.0.0",
       "DataAccessLayer >= 1.0.0"
     ]
   },
@@ -2915,6 +2916,9 @@
             },
             "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\DataAccessLayer\\DataAccessLayer.csproj": {
               "projectPath": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\DataAccessLayer\\DataAccessLayer.csproj"
+            },
+            "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\DTO\\DTO.csproj"
             }
           }
         }
