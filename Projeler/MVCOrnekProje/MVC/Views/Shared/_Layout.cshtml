@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using System.Security.Claims;
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -34,6 +36,22 @@
                         </ul>
                     </li>
                 </ul>
+
+                @{
+                    if (Context.User.Claims.FirstOrDefault(f => f.Type == "No") != null)
+                    {
+                        <p> @Context.User.Claims.FirstOrDefault(f => f.Type == "Ad").Value</p>
+                        <a href="/oturum/LogOut"> <button type="button" class="btn btn-primary">Log Out</button></a>
+                     }
+                    else
+                    {
+
+                        <a href="/oturum/LoginAc"> <button type="button" class="btn btn-primary">Login</button></a>
+                    
+                    }
+                }
+
+               
                 <form class="d-flex">
                     <button class="btn btn-outline-dark" type="submit">
                         <i class="bi-cart-fill me-1"></i>

@@ -5,7 +5,6 @@ namespace DataAccessLayer
 {
     public class DataBaseContext : DbContext
     {
-        public DbSet<Kategori> Kategori { get; set; }
         public DbSet<Urun> Urun { get; set; }
         public DbSet<Yorum> Yorum { get; set; }
         public DbSet<Rol> Rol { get; set; }

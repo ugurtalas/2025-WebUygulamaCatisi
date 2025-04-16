@@ -26,4 +26,5 @@ namespace Entities
 
         public List<Yorum> Yorum { get; set; } = new List<Yorum>();
     }
+
 }

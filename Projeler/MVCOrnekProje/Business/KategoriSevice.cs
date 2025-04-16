@@ -9,11 +9,9 @@ namespace Business
 {
     public class KategoriSevice
     {
-        public static List<Entities.Kategori> KategoriListele()
+        public static void KategoriListele()
         {
-            DataBaseContext Model = new DataBaseContext();
-            var Cevap = Model.Kategori.ToList();
-            return Cevap;
+            
         }
     }
 }

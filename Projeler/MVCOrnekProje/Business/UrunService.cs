@@ -8,8 +8,12 @@ using System.Threading.Tasks;
 
 namespace Business
 {
+
     public class UrunService
     {
+
+
+
         public static List<Entities.Urun> UrunListele()
         {
             DataBaseContext Model = new DataBaseContext();
