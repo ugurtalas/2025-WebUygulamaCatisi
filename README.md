@@ -35,6 +35,10 @@ dotnet ef database update
      * DTO
      * Dummy Data Generator
      * Business Katmanı oluşturma
+  7. Hafta : Vize Haftası
+  8. Hafta
+     * Oturum yönetimi ( Login, Logout )
+     * Authorization, Authentication
 
 Uygulama Mimarisi
 ![image](https://github.com/user-attachments/assets/7422aab9-8647-4a23-9319-803747e3c369)
