@@ -40,7 +40,7 @@ dotnet ef database update
      * Oturum yönetimi ( Login, Logout )
      * Authorization, Authentication
   9.  Hafta
-     * View Component
+     *  View Component
       
 
 Uygulama Mimarisi
