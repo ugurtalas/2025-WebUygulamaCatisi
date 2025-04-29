@@ -39,6 +39,9 @@ dotnet ef database update
   8. Hafta
      * Oturum yönetimi ( Login, Logout )
      * Authorization, Authentication
+  9.  Hafta
+     * View Component
+      
 
 Uygulama Mimarisi
 ![image](https://github.com/user-attachments/assets/7422aab9-8647-4a23-9319-803747e3c369)
