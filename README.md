@@ -41,6 +41,13 @@ dotnet ef database update
      * Authorization, Authentication
   9.  Hafta
      *  View Component
+  10. Hafta
+      * Middleware (Rate Limit, Performance Meter)
+      * Memory Cache
+  11. Hafta
+      * Middleware
+      * Action Filter (Loglama)
+      * Result Filter (Response Manipüle etme)
       
 
 Uygulama Mimarisi
