@@ -1,0 +1,31 @@
+﻿@model List<DTO.Response.Siparis.Siparis>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Ad</th>
+            <th scope="col">Fiyat</th>
+            <th scope="col">Tarih</th>
+            <th scope="col">Sipariş Durum</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @{
+            foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.Ad</th>
+                    <td>@item.Fiyat</td>
+                    <td>@item.EklemeTarih</td>
+                    <td>
+                       @item.SiaprisDurum
+
+                         
+                    </td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>

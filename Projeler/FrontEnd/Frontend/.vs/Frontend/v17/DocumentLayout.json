@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\FrontEnd\\Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC4419-2C45-4098-94FF-E69BD65F363D}|Frontend\\Frontend.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\frontend\\frontend\\frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC4419-2C45-4098-94FF-E69BD65F363D}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC4419-2C45-4098-94FF-E69BD65F363D}|Frontend\\Frontend.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\frontend\\frontend\\frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FC4419-2C45-4098-94FF-E69BD65F363D}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FC4419-2C45-4098-94FF-E69BD65F363D}|Frontend\\Frontend.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\frontend\\frontend\\frontend\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FC4419-2C45-4098-94FF-E69BD65F363D}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\FrontEnd\\Frontend\\Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\FrontEnd\\Frontend\\Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:29:08.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\FrontEnd\\Frontend\\Frontend\\Models\\Urun.cs",
+              "RelativeDocumentMoniker": "Frontend\\Models\\Urun.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\FrontEnd\\Frontend\\Frontend\\Models\\Urun.cs",
+              "RelativeToolTip": "Frontend\\Models\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:24:38.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\FrontEnd\\Frontend\\Frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\FrontEnd\\Frontend\\Frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:19:03.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

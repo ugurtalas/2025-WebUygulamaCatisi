@@ -3,11 +3,14 @@
 namespace MVC.Controllers
 {    public class UrunController : Controller
     {
+       
         public IActionResult UrunDetay (int UrunNo , string UrunAd )
         { 
 
             return View();
         }
+
+        [Filters.LogActionFilter]
         public IActionResult UrunDetayGetir(DTO.Request.BaseRequest request)
         {
             var ResponseUrun =  Business.UrunService.UruNDetayGetir(request);
@@ -24,6 +27,14 @@ namespace MVC.Controllers
 
             return View("/Views/Urun/urundetay.cshtml", Cevap);
         }
+
+        public IActionResult UcuzUrunGetir(int Limit)
+        {
+            return View("UcuzUrunler",Business.UrunService.UcuzUurnListele(Limit));
+        
+        }
+
+
     }
 
 

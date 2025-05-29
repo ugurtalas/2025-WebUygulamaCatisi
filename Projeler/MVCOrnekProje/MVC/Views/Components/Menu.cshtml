@@ -1,0 +1,20 @@
+﻿@model int
+
+@{
+
+    <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Home/Index">Ana Sayfa</a></li>
+
+    <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Urun/UcuzUrunGetir?Limit=1500">İndirimli Ürünler</a></li>
+    if (Model == 1)
+    {
+        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Home/Index">Yönetim Paneli</a></li>
+    }
+    else if (Model == 2)
+    {
+        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Home/Index">Ürünlerim</a></li>
+    }
+    else if (Model == 3)
+    {
+        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/Siparis/SiparisGoster">Siparişlerim</a></li>
+    }
+}

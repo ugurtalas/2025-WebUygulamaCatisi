@@ -1,0 +1,36 @@
+﻿@model List<DTO.Response.Sepet.SepetUrunBilgileri>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Ad</th>
+            <th scope="col">Fiyat</th>
+            <th scope="col">Tarih</th>
+            <th scope="col">Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+
+ @{
+     foreach (var item in Model)
+    {
+         <tr>
+             <th scope="row">@item.Ad</th>
+             <td>@item.Fiyat</td>
+             <td>@item.EklemeTarih</td>
+             <td>
+                        <a href="/sepet/SepettenUrunSil?SepetNo=@item.SepetNo">
+             
+             <button type="button" class="btn btn-danger">Sil</button>
+
+                        </a>
+                    </td>
+         </tr>
+    }
+ }
+
+    </tbody>
+</table>
+
+<a href="/siparis/siparistamamla">
+  <button type="button" class="btn btn-success">Sipariş Tamamla</button>
+  </a>

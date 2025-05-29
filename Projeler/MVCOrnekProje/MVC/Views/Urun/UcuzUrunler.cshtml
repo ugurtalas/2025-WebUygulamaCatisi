@@ -1,0 +1,8 @@
+﻿@model List<DTO.Response.Urun.UcuzUrunBilgi>
+
+@{foreach (var item in Model)
+    {
+        <p>@item.Ad   @item.Fiyat</p>
+    }
+
+}

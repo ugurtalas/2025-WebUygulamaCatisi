@@ -13,6 +13,14 @@ namespace Business
     {
 
 
+        public static List<DTO.Response.Urun.UcuzUrunBilgi> UcuzUurnListele(int limit)
+        {
+            DataBaseContext Model  = new DataBaseContext();
+            var Cevap = Model.Urun.Where(q => q.Fiyat < limit).Select(s=> new DTO.Response.Urun.UcuzUrunBilgi { No = s.No , Ad = s.Ad , Fiyat = s.Fiyat }).ToList();
+            return Cevap;
+
+        }
+
 
         public static List<Entities.Urun> UrunListele()
         {

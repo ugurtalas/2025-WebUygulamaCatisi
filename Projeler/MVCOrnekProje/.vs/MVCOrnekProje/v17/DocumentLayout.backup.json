@@ -7,40 +7,48 @@
       "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\views\\urun\\urundetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\urun\\urundetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\views\\components\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\components\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}|API\\API.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\api\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}|API\\API.csproj|solutionrelative:api\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\business\\sepetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|solutionrelative:business\\sepetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\controllers\\oturumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\oturumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\business\\urunservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|solutionrelative:business\\urunservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\views\\oturum\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\oturum\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\mvc\\views\\urun\\ucuzurunler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0303757B-0570-42D7-A686-F5AED6AE19E6}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\urun\\ucuzurunler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\business\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|solutionrelative:business\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BB4EA64-4CFE-4D5D-8C2E-EC9FAE00AC21}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\dto\\response\\urun\\ucuzuurnbilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB4EA64-4CFE-4D5D-8C2E-EC9FAE00AC21}|DTO\\DTO.csproj|solutionrelative:dto\\response\\urun\\ucuzuurnbilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}|API\\API.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\api\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}|API\\API.csproj|solutionrelative:api\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\business\\sepetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|solutionrelative:business\\sepetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\business\\kategorisevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112B70F4-5C81-44E2-B5E6-54D738B8BD17}|Business\\Business.csproj|solutionrelative:business\\kategorisevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}|API\\API.csproj|c:\\users\\user\\desktop\\repo\\2025-webuygulamacatisi\\projeler\\mvcornekproje\\api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}|API\\API.csproj|solutionrelative:api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,58 +58,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "urundetay.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Urun\\urundetay.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Urun\\urundetay.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Urun\\urundetay.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Urun\\urundetay.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Components\\Menu.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Components\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Components\\Menu.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Components\\Menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T12:17:19.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UrunController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\UrunController.cs",
-              "RelativeDocumentMoniker": "MVC\\Controllers\\UrunController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\UrunController.cs",
-              "RelativeToolTip": "MVC\\Controllers\\UrunController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T12:17:03.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T12:15:23.867Z",
+              "WhenOpened": "2025-05-28T11:47:57.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SepetService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\SepetService.cs",
-              "RelativeDocumentMoniker": "Business\\SepetService.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\SepetService.cs",
-              "RelativeToolTip": "Business\\SepetService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T11:47:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UcuzUrunler.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Urun\\UcuzUrunler.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Urun\\UcuzUrunler.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Urun\\UcuzUrunler.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Urun\\UcuzUrunler.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T11:46:03.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\UrunController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T12:12:45.863Z",
+              "WhenOpened": "2025-05-28T11:44:32.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UcuzUurnBilgi.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\DTO\\Response\\Urun\\UcuzUurnBilgi.cs",
+              "RelativeDocumentMoniker": "DTO\\Response\\Urun\\UcuzUurnBilgi.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\DTO\\Response\\Urun\\UcuzUurnBilgi.cs",
+              "RelativeToolTip": "DTO\\Response\\Urun\\UcuzUurnBilgi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:39:00.316Z",
               "EditorCaption": ""
             },
             {
@@ -110,76 +131,89 @@
               "Title": "SepetController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\SepetController.cs",
               "RelativeDocumentMoniker": "MVC\\Controllers\\SepetController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\SepetController.cs*",
-              "RelativeToolTip": "MVC\\Controllers\\SepetController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAgAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\SepetController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\SepetController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T12:05:14.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Program.cs",
-              "RelativeDocumentMoniker": "MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Program.cs",
-              "RelativeToolTip": "MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:30:08.368Z",
+              "WhenOpened": "2025-05-28T11:10:49.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\LoginService.cs",
-              "RelativeDocumentMoniker": "Business\\LoginService.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\LoginService.cs",
-              "RelativeToolTip": "Business\\LoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Title": "SepetService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\SepetService.cs",
+              "RelativeDocumentMoniker": "Business\\SepetService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\SepetService.cs",
+              "RelativeToolTip": "Business\\SepetService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:22:27.148Z",
+              "WhenOpened": "2025-05-28T10:39:52.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Oturum\\Login.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Oturum\\Login.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Oturum\\Login.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Oturum\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T10:44:53.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OturumController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\OturumController.cs",
-              "RelativeDocumentMoniker": "MVC\\Controllers\\OturumController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Controllers\\OturumController.cs",
-              "RelativeToolTip": "MVC\\Controllers\\OturumController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCcAAAA2AAAAAAAAAA==",
+              "Title": "SepetController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\API\\Controllers\\SepetController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SepetController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\API\\Controllers\\SepetController.cs",
+              "RelativeToolTip": "API\\Controllers\\SepetController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T10:44:02.21Z",
+              "WhenOpened": "2025-05-28T10:39:36.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T10:43:36.54Z",
+              "DocumentIndex": 3,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\API\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\API\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "API\\Controllers\\UrunController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:28:50.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrunService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\UrunService.cs",
+              "RelativeDocumentMoniker": "Business\\UrunService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\UrunService.cs",
+              "RelativeToolTip": "Business\\UrunService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:28:05.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KategoriSevice.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\KategoriSevice.cs",
+              "RelativeDocumentMoniker": "Business\\KategoriSevice.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\Business\\KategoriSevice.cs",
+              "RelativeToolTip": "Business\\KategoriSevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:28:00.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\repo\\2025-WebUygulamaCatisi\\Projeler\\MVCOrnekProje\\API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "API\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:24:58.345Z",
               "EditorCaption": ""
             }
           ]

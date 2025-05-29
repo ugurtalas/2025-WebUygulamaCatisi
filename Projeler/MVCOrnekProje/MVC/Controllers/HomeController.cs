@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
+using MVC.Filters;
 using MVC.Models;
+using System.Collections.Generic;
 using System.Diagnostics;
 
 namespace MVC.Controllers
@@ -8,17 +11,35 @@ namespace MVC.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IMemoryCache _cache;
+        private readonly string CacheKey;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IMemoryCache memoryCache)
         {
             _logger = logger;
+            _cache = memoryCache;
+            CacheKey = "UrunList";
         }
 
+        [Filters.LogActionFilter]
+        [ServiceFilter(typeof(MaskelemeResultFilter))]
         public IActionResult Index()
         {
-            var Response = Business.UrunService.TumUrunListele();
-            
-            return View(Response);
+
+            List<DTO.Response.Urun.UrunOzetBilgi> Cevap = new List<DTO.Response.Urun.UrunOzetBilgi>();
+            var ResponseCache = _cache.Get<List<DTO.Response.Urun.UrunOzetBilgi>>(CacheKey);
+            ViewBag.Kaynak = "Cache";
+
+            if (ResponseCache == null)
+            {
+                Cevap = Business.UrunService.TumUrunListele();
+                _cache.Set(CacheKey, Cevap);
+                ViewBag.Kaynak = "Data Base";
+                return View(Cevap);
+            }
+
+
+            return View(ResponseCache);
         }
 
         public IActionResult Privacy()

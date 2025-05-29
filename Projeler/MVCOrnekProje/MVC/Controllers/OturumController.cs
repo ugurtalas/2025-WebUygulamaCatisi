@@ -5,12 +5,15 @@ using System.Security.Claims;
 
 namespace MVC.Controllers
 {
+    [Filters.LogActionFilter]
     public class OturumController : Controller
     {
         public IActionResult LoginAc()
         {
             return View("Views/Oturum/Login.cshtml");
         }
+
+    
 
         public IActionResult Login(string KullaniciAd , string Parola)
         {
@@ -27,7 +30,7 @@ namespace MVC.Controllers
             claims.Add(new Claim("No", Kullanici.No.ToString()));
             claims.Add(new Claim("Ad", Kullanici.Ad));
             claims.Add(new Claim("Soyad", Kullanici.Soyad));
-            claims.Add(new Claim(ClaimTypes.Role ,Kullanici.RolN bo.ToString()));
+            claims.Add(new Claim(ClaimTypes.Role ,Kullanici.RolNo.ToString()));
 
             ClaimsIdentity identity = new ClaimsIdentity(claims,CookieAuthenticationDefaults.AuthenticationScheme);
 

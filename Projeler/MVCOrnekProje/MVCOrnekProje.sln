@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DummyDataGenerator", "Dummy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{112B70F4-5C81-44E2-B5E6-54D738B8BD17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{1BB4EA64-4CFE-4D5D-8C2E-EC9FAE00AC21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "DTO\DTO.csproj", "{1BB4EA64-4CFE-4D5D-8C2E-EC9FAE00AC21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1BB4EA64-4CFE-4D5D-8C2E-EC9FAE00AC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB4EA64-4CFE-4D5D-8C2E-EC9FAE00AC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB4EA64-4CFE-4D5D-8C2E-EC9FAE00AC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776E6B34-FFB9-41BF-BC71-045E1FAE7E62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

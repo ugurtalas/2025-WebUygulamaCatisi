@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.Extensions.Options;
+using MVC.Filters;
+using MVC.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,12 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.AccessDeniedPath = "/Home/Index";
         options.ExpireTimeSpan = TimeSpan.FromMinutes(60);
     });
+
+
+builder.Services.AddMemoryCache();
+builder.Services.AddScoped<LogActionFilter>();
+builder.Services.AddScoped<MaskelemeResultFilter> ();
+
 
 var app = builder.Build();
 
@@ -33,6 +41,13 @@ app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();
+
+
+app.UseErrorHandlerMiddleware();
+app.UsePerformanceMeterMiddleware();
+app.UseRateLimitMiddleware();
+
+
 
 app.MapControllerRoute(
     name: "default",
